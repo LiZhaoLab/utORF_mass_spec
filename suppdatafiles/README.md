@@ -11,5 +11,5 @@ Supplemental Data Files:
 | Data File 3 (gtf)      | utORF locations               | 56ce7cc2db4cd3e58b613c0f5364692c |
 | Data File 4 (csv)      | utORF inferred LCA classes    | 6fddd7573f62933c50ef74a411aad77c |
 | Data File 5 (xlsx)     | MASCOT search results, embryo | c7727dd2f1ee7864829944094b0720b9 |
-| Data File 6 (xlsx)     | dataset subset mappings       | dc6d2f54c5e7188839b592df7b2654fa |
-
+| Data File 6 (csv)      | rank of biol. signif. tgts    | 689f1d2a5ce6ce9d1f76ad386c780d72 |
+| Data File 7 (xlsx)     | dataset subset mappings       | f0883eaeaa586c31114bf927fac7de8d |
