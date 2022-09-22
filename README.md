@@ -1,5 +1,6 @@
 This repository supports the manuscript
-"Systematic identification of unannotated ORFs in Drosophila reveals evolutionary heterogeneity".
+"Protein evidence of unannotated ORFs in Drosophila
+reveals diversity in the evolution and properties of young proteins".
 
 ## Quick links
 
