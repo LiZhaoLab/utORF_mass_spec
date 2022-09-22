@@ -3,7 +3,7 @@ This repository supports the manuscript
 
 ## Quick links
 
-- [Preprint on bioRxiv](LINK TBD)
+- [Preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.04.486978v2) [(v1)](https://www.biorxiv.org/content/10.1101/2022.04.04.486978v1)
 - [Deposited MS data on PRIDE](https://www.ebi.ac.uk/pride/archive/projects/PXD032197/)
 - [conda environment](environment.md)
 - [supplemental data files](suppdatafiles/README.md)
