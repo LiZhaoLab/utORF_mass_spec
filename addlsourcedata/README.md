@@ -4,6 +4,9 @@ Contains various intermediates used for further work, or to reduce computation t
 
 | Filename                                    | contents                                                |
 |---------------------------------------------|-------------------------------------------------------- |
+| `single_blosum62.pandas.pic.gz`             | from `similarityscore`; similarity scores               |
+| `furthest.pandas.pic.gz`                    | from `similarityscore`; most distant sig. orthologs     |
+| `monophyletic.pandas.pic.gz`                | from `similarityscore`; inferred monophyly              |
 | `LCA_factors_coded.csv`                     | from `LCA_data_preparation`; coded categ. vars. for LCA |
 | `LCA_factors_indexed.pd.pic.gz`             | as above, but retaining index;                          |
 | `LCA_factors_original.csv`                  | as above, but retaining original data values for all    |
