@@ -1,7 +1,8 @@
 This repository supports the manuscript
 "Protein evidence of unannotated ORFs in Drosophila
 reveals diversity in the evolution and properties of young proteins".
-If you use the data or script, please cite: Zheng EB, Zhao L (2022). Protein evidence of unannotated ORFs in Drosophila reveals diversity in the evolution and properties of young proteins. eLife. DOI: 10.7554/eLife.78772.
+
+If you use the data or scripts, please cite: Zheng EB, Zhao L (2022). Protein evidence of unannotated ORFs in Drosophila reveals diversity in the evolution and properties of young proteins. eLife. DOI: 10.7554/eLife.78772.
 
 ## Quick links
 
